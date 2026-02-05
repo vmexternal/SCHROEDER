@@ -6,10 +6,7 @@
      <header className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur-sm border-b border-border">
        <div className="container mx-auto px-4 h-16 flex items-center justify-between">
          <div className="flex items-center gap-2">
-          <div className="w-10 h-10 rounded-full hero-gradient flex items-center justify-center">
-           <span className="text-primary-foreground font-bold text-lg">A.S.</span>
-          </div>
-         <span className="font-semibold text-lg text-foreground">A. SCHROEDER CONTABILIDADE LTDA</span>
+          <span className="font-semibold text-lg text-foreground">A. SCHROEDER CONTABILIDADE LTDA</span>
         </div>
          
          <nav className="hidden md:flex items-center gap-8">
